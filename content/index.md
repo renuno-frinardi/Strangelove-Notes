@@ -7,13 +7,13 @@ date: 2025-09-02
 I know reading wont be enough to learn things, so I decide to write all the things that I learn on some kind of notes. So, this website gonna be full of all the things that I learn. Wether it is math, computer science, or even yapp about random things
 
 ## What's On This Site?
-1. [[compsci-notes.md | Computer Science Stuff]]
+1. [Computer Science Stuff](compsci-notes.md)
     - Basics of Programming (Algorithm, Data Structure)
     - Theoritical Part of CS (Automata Theory, Application of Math Stuff)
     - Low Level Stuff
     - Software Engineering Stuff
     - AI/ML Stuff
-2. [[math-notes.md | Math Stuff]]
+2. [Computer Science Stuff](math-notes.md)
     - Algebra
     - Geometry
     - Combinatorics
@@ -22,7 +22,7 @@ I know reading wont be enough to learn things, so I decide to write all the thin
     - Calculus
     - Discrete Math
     - "What even is this about" stuff
-3. [[random-notes.md | Random Stuff]]
+3. [Random Stuff](random-notes.md)
     - Music
     - Film
     - Games

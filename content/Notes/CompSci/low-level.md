@@ -7,7 +7,7 @@ A section for all the notes that are related to assembly programming, organizati
 
 ## Index
 
-1. [[Notes/CompSci/LowLevel/comp-or-ar.md | Computer Organization and Architecture]]
+1. [Computer Organization and Architecture](Notes/CompSci/LowLevel/comp-or-ar.md)
 2. Operating System
 3. Computer Networks
 4. Distributed System

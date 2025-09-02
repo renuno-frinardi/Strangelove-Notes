@@ -7,8 +7,8 @@ It's probably obvious on why I have a section for compsci notes, so I'm just gon
 
 ## Index
 
-1. [[Notes/CompSci/basics-of-prog.md | Basics of Programming (Algorithm, Data Structure)]]
-2. [[Notes/CompSci/theory-of-cs.md | Theoritical Part of CS (Automata Theory, Application of Math Stuff)]]
-3. [[Notes/CompSci/low-level.md | Low Level Stuff]]
-4. [[Notes/CompSci/soft-eng.md | Software Engineering Stuff]]
-5. [[Notes/CompSci/ai-ml.md | AI/ML Stuff]]
+1. [Basics of Programming (Algorithm, Data Structure)](Notes/CompSci/basics-of-prog.md)
+2. [Theoritical Part of CS (Automata Theory, Application of Math Stuff)](Notes/CompSci/theory-of-cs.md)
+3. [Low Level Stuff](Notes/CompSci/low-level.md)
+4. [Software Engineering Stuff](Notes/CompSci/soft-eng.md)
+5. [AI/ML Stuff](Notes/CompSci/ai-ml.md)
